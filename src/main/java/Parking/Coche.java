@@ -6,8 +6,12 @@ public class Coche implements Runnable{
     private String coche;
     Aparcamiento aparcamiento;
 
-    //Constructor para indicar el nombre del coche
-    public Coche(String coche, Aparcamiento aparcamiento){
+
+    /**
+     * @param coche
+     * @param aparcamiento
+     */
+    public Coche(String coche, Aparcamiento aparcamiento){ //Constructor para indicar el nombre del coche
         this.coche = coche;
         this.aparcamiento = aparcamiento;
     }
