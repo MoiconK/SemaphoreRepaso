@@ -1,4 +1,4 @@
-#Uso de Semaphore en Java
+# Uso de Semaphore en Java
 ## Moisés Ortiz Fernández 2º DAM
 
 Semaphore es una clase en Java que se puede utilizar para la gestión de hilos que gestiona si un recurso de una sección crítica está disponible o no. La ventaja de utilizar Semaphore es que se le puede indicar el número de hilos que entrarán a la vez, o también se 
