@@ -1,3 +1,5 @@
+package Parking;
+
 import java.util.Random;
 
 public class Coche implements Runnable{
