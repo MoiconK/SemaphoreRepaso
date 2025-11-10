@@ -6,7 +6,6 @@ public class Coche implements Runnable{
     private String coche;
     Aparcamiento aparcamiento;
 
-
     /**
      * @param coche
      * @param aparcamiento
